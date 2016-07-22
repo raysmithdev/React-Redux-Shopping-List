@@ -1,4 +1,4 @@
-# React/Sass/Redux Boilerplate
+# React/Sass/Redux 
 
 Simple shopping list using React & Redux
 
